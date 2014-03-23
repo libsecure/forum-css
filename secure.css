@@ -62,7 +62,9 @@ a.star.starred {
   border-bottom: none;
   box-shadow: none;
   width: 1000px !important;
-  color: white !important; }
+  color: white !important; 
+  position: fixed;  
+}
 
 button {
   background: #eee;
