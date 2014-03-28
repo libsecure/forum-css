@@ -60,7 +60,7 @@ a.star.starred {
   background-color: #243445 !important;
   border-bottom: none;
   box-shadow: none;
-  width: 1000px !important;
+  width: 100% !important;
   color: white !important; 
   position: fixed;  
 }
@@ -380,7 +380,7 @@ div.read-icon.bookmarked {
   box-shadow: none !important; }
 
 div.container {
-  width: 1000px; }
+  width: 100%; }
 
 .post-controls button:hover {
   color: white !important; }
