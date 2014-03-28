@@ -43,11 +43,10 @@ body {
   min-width: 1000px;}
 
 #main {
-  width: 1000px !important; //FIXME: this is causes Shawn to cry (bad res)
+  width: 100% !important;
   min-height: 500px;
   background-color: #f5f5f5;
   margin: 0 auto;
-  padding: 0 1%; //FIXME: also makes shawn sad...
 }
 
 .icon-star.starred {
